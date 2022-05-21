@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/g1">
+    <item android:id="@+id/option01"
+        android:title="마이페이지"
+        android:icon="@drawable/my_page"/>
+    <item android:id="@+id/option02"
+        android:title="최근 방문한 페이지"
+        android:icon="@drawable/recent_page"/>
+    <item android:id="@+id/option03"
+        android:title="즐겨찾기한 컨텐츠"
+        android:icon="@drawable/clip_page"/>
+    </group>
+</menu>
